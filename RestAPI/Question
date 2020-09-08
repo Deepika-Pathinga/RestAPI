@@ -1,0 +1,42 @@
+REST API ASSIGNMENT
+
+1. Find value of username
+Find values of all sessionid
+Find last value of sessionid
+Find all marks of second student
+Find the ssecond state value of first student
+Find the ssecond contact value of second student
+Find all cities of second student
+Find contacts of all students
+Find adress of first student
+JSON response:
+{
+"username":"aa@m.com",
+"password":"12xyz",
+"sessionid":[12,23,34,56],
+"students": [
+{
+"id": 112,
+"name": "aana",
+"marks":[20,25,22],
+"contact": ["1234","3456"],
+"adresss":[{"state":"nc","city":"abc"},{"state":"ca","city":"xyz"}]
+},
+{
+"id": 115,
+"name": "banu",
+"marks":[20,25,22],
+"contact": ["4534","3456"],
+"adresss":[{"state":"nc","city":"abc"},{"state":"ca","city":"xyz"}]
+}
+]
+2. Access below API
+• https://jsonplaceholder.typicode.com/posts
+• API will return JSON response.
+• Parse the JSON
+
+• Check if response has " userId": "7"
+➢ Pass the test and display the title of that userId
+➢ Simple Maven Project
+➢ Java
+➢ Restassured Framework

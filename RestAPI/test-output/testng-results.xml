@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Rest API" duration-ms="4700" started-at="2020-09-07T17:21:55 PDT" finished-at="2020-09-07T17:22:00 PDT">
+    <groups>
+    </groups>
+    <test name="Rest API" duration-ms="4700" started-at="2020-09-07T17:21:55 PDT" finished-at="2020-09-07T17:22:00 PDT">
+      <class name="com.rest.api.RestAssuredAPI">
+        <test-method status="PASS" signature="question1_1_Get_UserNameValue()[pri:1, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_1_Get_UserNameValue" duration-ms="24" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_1_Get_UserNameValue -->
+        <test-method status="PASS" signature="question1_2_GetAll_SessionIDValues()[pri:2, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_2_GetAll_SessionIDValues" duration-ms="0" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_2_GetAll_SessionIDValues -->
+        <test-method status="PASS" signature="question1_3_GetLastValue_SessionID()[pri:3, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_3_GetLastValue_SessionID" duration-ms="4" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_3_GetLastValue_SessionID -->
+        <test-method status="PASS" signature="question1_4_GetAllMarks_SecondStudent()[pri:4, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_4_GetAllMarks_SecondStudent" duration-ms="499" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_4_GetAllMarks_SecondStudent -->
+        <test-method status="PASS" signature="question1_5_GetSecondStateValue_FirstStudent()[pri:5, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_5_GetSecondStateValue_FirstStudent" duration-ms="8" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_5_GetSecondStateValue_FirstStudent -->
+        <test-method status="PASS" signature="question1_6_GetSecondContactValue_FirstStudent()[pri:6, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_6_GetSecondContactValue_FirstStudent" duration-ms="12" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_6_GetSecondContactValue_FirstStudent -->
+        <test-method status="PASS" signature="question1_7_GetAllCities_SecondStudent()[pri:7, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_7_GetAllCities_SecondStudent" duration-ms="8" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_7_GetAllCities_SecondStudent -->
+        <test-method status="PASS" signature="question1_8_GetContacts_AllStudents()[pri:8, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_8_GetContacts_AllStudents" duration-ms="8" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_8_GetContacts_AllStudents -->
+        <test-method status="PASS" signature="question1_9_GetAddress_FirstStudent()[pri:9, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question1_9_GetAddress_FirstStudent" duration-ms="8" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:21:56 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1_9_GetAddress_FirstStudent -->
+        <test-method status="PASS" signature="question2_1_Get_UserID7AndTitle()[pri:10, instance:com.rest.api.RestAssuredAPI@6325a3ee]" name="question2_1_Get_UserID7AndTitle" duration-ms="3999" started-at="2020-09-07T17:21:56 PDT" finished-at="2020-09-07T17:22:00 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question2_1_Get_UserID7AndTitle -->
+      </class> <!-- com.rest.api.RestAssuredAPI -->
+    </test> <!-- Rest API -->
+  </suite> <!-- Rest API -->
+</testng-results>
